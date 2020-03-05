@@ -1,5 +1,6 @@
 package com.jbk.E_P.Pages;
-import com.jbk.E_P.Base.Base;
+
+import com.jbk.qa.base.Base;
 
 public class LoginPage extends Base {
 

@@ -2,7 +2,8 @@ package com.jbk.E_P.Tests;
 
 import org.testng.annotations.Test;
 
-import com.jbk.E_P.Base.Base;
+import com.jbk.qa.base.Base;
+
 
 public class HomePageTest extends Base {
 
